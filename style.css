@@ -1,0 +1,50 @@
+
+body{
+background-image: url(file:///C:/Users/AlexSimo/Downloads/indexx_files/background.jpg);
+background-size: cover;
+}
+img{
+  margin: auto;
+  text-align: center;
+  display: block;
+  width: 200px
+
+}
+header > h1{
+  color: lime;
+}
+
+  .Contenitore{
+    margin: auto;
+    width: 450px
+
+}
+button{
+  display: inline;
+
+}
+.bottone{
+  text-align: center;
+  margin: inherit;
+  width: 450px}
+  .h2{
+    display: inline-block;
+    color: white;
+  }
+  .ff{
+  margin:inherit;
+  color: orange;
+  width: 300px
+
+  }
+  main span{
+    color: white;
+  }
+  main div{
+    color: white;
+  }
+  .f2{
+    width: 500px
+  }
+  .f3{
+    width: 150px
